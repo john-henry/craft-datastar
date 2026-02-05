@@ -7,7 +7,7 @@
   "require": {
     "php": "^8.2",
     "craftcms/cms": "^4.0",
-    "john-henry/craft-datastar-module": "^1.0.0-RC.14"
+    "john-henry/craft-datastar-module": "1.0.0-RC.14"
   },
   "require-dev": {
     "craftcms/ecs": "dev-main",
